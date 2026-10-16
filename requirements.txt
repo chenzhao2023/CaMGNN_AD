@@ -1,0 +1,7 @@
+# Versions verified in the authors' GNN environment.
+numpy==2.0.2
+pandas==2.3.1
+networkx==3.2.1
+scikit-learn==1.6.1
+torch==2.8.0
+torch-geometric==2.6.1
